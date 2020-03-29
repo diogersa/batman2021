@@ -5,7 +5,7 @@ body {
   /* font-family: 'Playfair Display', serif; */
   color: #fff;
   background: #0a090a;
-  background-image: url(/src/img/bg.png);
+  background-image: url(img/bg.png);
   background-repeat: no-repeat;
   /* background-size: 100%; */
   background-position: top center;
@@ -136,7 +136,7 @@ input::placeholder {
   content: "";
   width: 30px;
   height: 30px;
-  background-image: url(/src/img/play.svg);
+  background-image: url(img/play.svg);
   display: inline-block;
   background-repeat: no-repeat;
   background-size: 100%;
@@ -154,7 +154,7 @@ input::placeholder {
   content: "";
   width: 30px;
   height: 30px;
-  background-image: url(/src/img/play.svg);
+  background-image: url(img/play.svg);
   display: inline-block;
   background-repeat: no-repeat;
   background-size: 100%;
